@@ -1,0 +1,16 @@
+-------------------
+Statistiche: 
+Variabili controllate: 9
+Numero di errori rilevati: 5
+Numero di righe commentate eliminate: 21
+Numero di file inclusi: 1
+Numero di righe del file di output: 33
+Dimensione del file di output: 869bytes
+Dimensione input/include del file test.h: 92bytes, numero di righe: 3
+Dimensione input/include del file test.c: 794bytes, numero di righe: 30
+Errore nel file: test.h in riga 3
+Errore nel file: test.c in riga 14
+Errore nel file: test.c in riga 15
+Errore nel file: test.c in riga 20
+Errore nel file: test.c in riga 22
+-------------------

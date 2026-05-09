@@ -1,0 +1,38 @@
+
+
+
+
+
+#define PROVA 69 
+
+struct {
+	int x;
+	int y;
+}piont2D;
+
+
+
+unsigned int dio;
+
+enum Stato {
+	SPENTO = 0,
+	ACCESO = 1,
+	PAUSA=2
+};
+
+int main(){
+	char $bagliato; 
+	int *puntatore;
+	float _valido=5.9;
+	typedef bool var;
+	double x-ray=33; 
+	int var1, var2, v@r3; 
+	int 3ap=5, four life=6, _valido2=0; 
+	int  **puntatore;
+	int switch;
+	float static, valida, char;
+
+	if(var>0){
+		
+	}
+}

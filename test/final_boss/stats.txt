@@ -1,0 +1,24 @@
+-------------------
+Statistiche: 
+Variabili controllate: 38
+Numero di errori rilevati: 11
+Numero di righe commentate eliminate: 27
+Numero di file inclusi: 3
+Numero di righe del file di output: 75
+Dimensione del file di output: 1026bytes
+Dimensione input/include del file struct.h: 373bytes, numero di righe: 30
+Dimensione input/include del file enum.h: 165bytes, numero di righe: 11
+Dimensione input/include del file typedef.h: 40bytes, numero di righe: 3
+Dimensione input/include del file test.c: 504bytes, numero di righe: 31
+Errore nel file: struct.h in riga 7
+Errore nel file: struct.h in riga 14
+Errore nel file: struct.h in riga 30
+Errore nel file: test.c in riga 17
+Errore nel file: test.c in riga 20
+Errore nel file: test.c in riga 21
+Errore nel file: test.c in riga 22
+Errore nel file: test.c in riga 22
+Errore nel file: test.c in riga 24
+Errore nel file: test.c in riga 25
+Errore nel file: test.c in riga 25
+-------------------

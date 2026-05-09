@@ -1,0 +1,30 @@
+/*=== File di test per myPreCompiler ===*/
+/* Contiene: 
+   - Include annidati
+   - Variabili non valide
+   - Commenti complessi
+   - Casi limite
+*/
+
+// Include standard (dovrebbe essere nella CWD)
+#include "test.h"  // File con altri include e variabili globali
+
+/* Variabili globali (alcune non valide) */
+int global_valid;
+float 2invalid_global;  // Errore: nome inizia con numero
+char *weird@name;       // Errore: carattere speciale @
+
+int main() {
+    // Dichiarazioni locali (alcune non valide)
+    int x = 10;
+    double y-ray;       // Errore: trattino non permesso
+    char _valid;
+    unsigned int 5stars;     // Errore: nome inizia con numero
+    
+    /* Commento 
+       multi-linea 
+       da eliminare */
+    printf("Test");  // Commento inline da eliminare
+    
+    return 0;
+}

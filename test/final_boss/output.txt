@@ -1,0 +1,75 @@
+                              
+
+  
+                                     
+         
+   
+typedef struct myStruct {
+	int one;
+	int two!;          
+};
+
+  
+                                   
+             
+   
+struct my-Second-Struct {
+	int oneAgain;
+	int twoAgain;
+};
+
+
+  
+                   
+   
+struct {
+	int x;
+	int y;
+}piont2D;
+
+
+                     
+struct singleLine { int in; int one; char *line!; };
+
+  
+                                      
+   
+enum Stato {
+	SPENTO = 0,
+	ACCESO = 1,
+	PAUSA=2
+};
+
+
+enum Stato2 { SONO_SPENTO = 2 };                                 
+
+typedef bool myBool;
+
+typedef char var;
+
+
+
+           
+        
+       
+                 
+
+unsigned int dio;
+
+
+int main(){
+	char $bagliato;             
+	int *puntatore;
+	float _valido=5.9;
+	double x-ray=33;             
+	int var1, var2, v@r3;                          
+	int 3ap=5, four life=6, _valido2=0;                              
+	int  **puntatore;
+	int switch;
+	float static, valida, char;
+	var sonoValida;
+
+	if(var>0){
+		                  
+	}
+}

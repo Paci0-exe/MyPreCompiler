@@ -1,0 +1,19 @@
+-------------------
+Statistiche: 
+Variabili controllate: 26
+Numero di errori rilevati: 8
+Numero di righe commentate eliminate: 15
+Numero di file inclusi: 1
+Numero di righe del file di output: 44
+Dimensione del file di output: 661bytes
+Dimensione input/include del file continua.c: 85bytes, numero di righe: 6
+Dimensione input/include del file TestCompleto.c: 597bytes, numero di righe: 38
+Errore nel file: TestCompleto.c in riga 23
+Errore nel file: TestCompleto.c in riga 28
+Errore nel file: TestCompleto.c in riga 29
+Errore nel file: TestCompleto.c in riga 30
+Errore nel file: TestCompleto.c in riga 30
+Errore nel file: TestCompleto.c in riga 32
+Errore nel file: TestCompleto.c in riga 33
+Errore nel file: TestCompleto.c in riga 33
+-------------------

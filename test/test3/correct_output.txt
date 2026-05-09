@@ -1,0 +1,44 @@
+//primo commento da eleminare
+
+/*
+ *	altri commenti che non ci servono
+ */
+
+
+#define PROVA 69 //dovrebbe funzionare
+
+
+struct {
+	int x;
+	int y;
+}piont2D;
+
+/* commento
+ * multi
+ * riga
+ * da eliminare*/
+unsigned int dio;
+
+enum Stato {
+	SPENTO = 0,
+	ACCESO = 1,
+	PAUSA=2
+};
+
+int main(){
+	char $bagliato; //non valido
+	int *puntatore;
+	float _valido=5.9;
+	typedef bool var;
+	var sonoCorretta; // funzionano i typedef?
+	double x-ray=33; //non valido
+	int var1, var2, v@r3; //la terza è sbagliata..
+	int 3ap=5, four life=6, _valido2=0; //le prime due sono sbaglaite
+	int  **puntatore;
+	int switch;
+	float static, valida, char;
+
+	if(var>0){
+		//non ci interessa
+	}
+}

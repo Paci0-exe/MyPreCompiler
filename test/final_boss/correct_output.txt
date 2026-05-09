@@ -1,0 +1,74 @@
+//primo commento da eleminare
+
+/*
+ * Prima possibile definizione di una
+ * struct
+ */
+typedef struct myStruct {
+	int one;
+	int two!; // Errore
+};
+
+/*
+ * Seconda possibile definizione di
+ * una struct
+ */
+struct my-Second-Struct {
+	int oneAgain;
+	int twoAgain;
+};
+
+
+/*
+ * Eccone un altra!
+ */
+struct {
+	int x;
+	int y;
+}piont2D;
+
+
+// Non finiscono più
+struct singleLine { int in; int one; char *line!; };
+
+/*
+ * Una possibile dichiarazione di enum
+ */
+enum Stato {
+	SPENTO = 0,
+	ACCESO = 1,
+	PAUSA=2
+};
+
+
+enum Stato2 { SONO_SPENTO = 2 }; // Seconda possibile definizione
+
+typedef bool myBool;
+
+typedef char var;
+
+
+
+/* commento
+ * multi
+ * riga
+ * da eliminare*/
+
+unsigned int dio;
+
+
+int main(){
+	char $bagliato; //non valido
+	int *puntatore;
+	float _valido=5.9;
+	double x-ray=33; //non valido
+	int var1, var2, v@r3; //la terza è sbagliata..
+	int 3ap=5, four life=6, _valido2=0; //le prime due sono sbaglaite
+	int  **puntatore;
+	int switch;
+	float static, valida, char;
+
+	if(var>0){
+		//non ci interessa
+	}
+}

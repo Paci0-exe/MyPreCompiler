@@ -1,0 +1,33 @@
+                                          
+             
+                     
+                         
+                       
+                
+  
+
+                                               
+                     
+int nested_var;
+int variabile non_valida = 0;                        
+                                               
+
+                                           
+int global_valid;
+float 2invalid_global;                                   
+char *weird@name;                                      
+
+int main() {
+                                               
+    int x = 10;
+    double y-ray;                                       
+    char _valid;
+    unsigned int 5stars;                                      
+    
+                
+                   
+                      
+    printf("Test");                                 
+    
+    return 0;
+}
